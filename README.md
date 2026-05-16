@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Nazrah Shera
+# 👋 Hey, I'm Nazrah – FromDotToJsx 👩‍💻
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&width=435&lines=.NET+Core+Developer;Learning+React;Building+cool+stuff)
 
